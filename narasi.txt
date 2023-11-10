@@ -1,0 +1,21 @@
+Booking Online PS rental
+User : Pengunjung, Operator 
+Pengunjung booking PS dengan seri PS 4 dan 5 dan memilih paket (personal atau per jam)
+Setelah booking operator melakukan approve booking dan 
+Membuat invoice untuk ruangan yang dipesan
+Pengunjung datang dengan menggunakan invoice yang telah dibooking
+Pengunjung menunjukan invoice yang dibuat ke operator
+
+Variabel
+- Personal
+jam kedatangan
+seri ps
+nomor ruangan
+nomor pengunjung
+
+- paket
+pilihan paket
+jam booking
+seri ps
+nomor ruangan
+nomor pengunjung
